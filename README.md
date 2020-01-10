@@ -1,2 +1,2 @@
 # eosiopowcoin-autominer2
-More advanced auto miner 
+More advanced auto miner for POW 
