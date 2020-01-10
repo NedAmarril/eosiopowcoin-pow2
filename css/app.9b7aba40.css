@@ -1,0 +1,160 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #333;
+    width: 100%
+}
+
+body {
+    font-size: 13px
+}
+
+h2 {
+    text-align: left;
+    font-size: 15px;
+    margin-bottom: 4px
+}
+
+p {
+    margin-bottom: 8px
+}
+
+#nav {
+    padding: 30px
+}
+
+#nav a {
+    font-weight: 700;
+    color: #2c3e50
+}
+
+#nav a.router-link-exact-active {
+    color: #42b983
+}
+
+h3 {
+    margin: 40px 0 0
+}
+
+ul {
+    list-style-type: none;
+    padding: 0
+}
+
+li {
+    display: inline-block;
+    margin: 0 10px
+}
+
+a {
+    color: #42b983
+}
+
+.pow2-logo {
+    height: 30px
+}
+
+label {
+    margin-bottom: 3px;
+    font-size: 13px
+}
+
+select {
+    background-color: #fff;
+    border: none
+}
+
+.ver-algin {
+    display: inline-block
+}
+
+.pow2-logo,
+.ver-algin {
+    vertical-align: middle
+}
+
+h1 {
+    font-size: 15px;
+    line-height: 1.5
+}
+
+.small-tip {
+    font-size: 12px;
+    color: #999;
+    text-align: left
+}
+
+.v--modal-box {
+    padding: 20px!important;
+    color: #d63d52
+}
+
+.mykey-tip {
+    padding: 20px;
+    background: #eee
+}
+
+.settings {
+    padding: 10px;
+    background: #fafafa;
+    margin-bottom: 8px
+}
+
+.setting-item {
+    padding-left: 8px;
+    border-left: 4px solid #e4f1ff
+}
+
+.setting-item .setting-tip {
+    font-size: 12px;
+    color: #777
+}
+
+.error {
+    color: #f54141
+}
+
+.form-signin {
+    position: relative
+}
+
+span.green {
+    color: #42b983
+}
+
+span.red {
+    color: #f54141
+}
+
+span.yellow {
+    color: #e88e1e
+}
+
+.lang-switch {
+    position: absolute;
+    right: 10px;
+    top: 20px;
+    border: 1px solid #ddd;
+    padding: 2px 4px;
+    border-radius: 4px;
+    font-size: 12px
+}
+
+.lang-switch,
+.lang-switch a {
+    text-decoration: none
+}
+
+.node-options button {
+    margin: 8px
+}
+
+input[type=checkbox] {
+    vertical-align: middle
+}
+
+p {
+    font-size: 13px
+}
